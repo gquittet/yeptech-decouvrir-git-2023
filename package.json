@@ -1,0 +1,21 @@
+{
+  "name": "git-workshop",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.11",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/fa-brands": "^1.1.4",
+    "@iconify-json/twemoji": "^1.1.11",
+    "@windicss/plugin-animations": "^1.0.9",
+    "playwright-chromium": "^1.30.0",
+    "sass": "^1.58.1"
+  }
+}
