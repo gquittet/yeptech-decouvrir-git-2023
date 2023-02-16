@@ -28,7 +28,7 @@ hideInToc: true
 
 # Découvrir Git <fa-brands-git-alt class="text-orange-600" />
 
-### YEPTech - 2023
+### YEP'tech - 2023
 
 [Guillaume Quittet](https://v01dsocity.com)
 
