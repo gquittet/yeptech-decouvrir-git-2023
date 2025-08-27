@@ -170,7 +170,7 @@ hideInToc: true
 
 <v-clicks>
 
-<div class="text-center font-bold my-6 animate-animated animate-infinite animate-pulse">
+<div class="text-center font-bold my-6 animate-animated animate-infinite animate-pulse-alt">
 
 <twemoji-warning /> Perte de travail !
 

@@ -74,7 +74,7 @@ winget install git
 
 https://git-scm.com/download/win
 
-<div class="mt-8 italic leading-relaxed animate-animated animate-infinite animate-pulse">
+<div class="mt-8 italic leading-relaxed animate-animated animate-infinite animate-pulse-alt">
 
 <twemoji-warning /> Toujours utiliser une version à jour de Git
 

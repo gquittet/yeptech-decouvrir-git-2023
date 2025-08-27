@@ -1,5 +1,6 @@
 {
   "name": "git-workshop",
+  "type": "module",
   "private": true,
   "scripts": {
     "build": "slidev build",
@@ -7,15 +8,14 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.36.11",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/cli": "^52.1.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.18"
   },
   "devDependencies": {
-    "@iconify-json/fa-brands": "^1.1.4",
-    "@iconify-json/twemoji": "^1.1.11",
-    "@windicss/plugin-animations": "^1.0.9",
-    "playwright-chromium": "^1.30.0",
-    "sass": "^1.58.1"
+    "@iconify-json/fa-brands": "^1.2.2",
+    "@iconify-json/twemoji": "^1.2.4",
+    "sass": "^1.91.0"
   }
 }

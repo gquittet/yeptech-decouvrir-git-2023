@@ -11,10 +11,6 @@ colorSchema: 'auto'
 
 info: true
 
-download: true
-
-highlighter: material-ocean
-
 canvasWidth: 800
 
 lineNumbers: true
@@ -24,13 +20,20 @@ layout: intro
 class: 'text-center'
 
 hideInToc: true
+
+drawings:
+  persist: false
+transition: slide-left
+mdc: true
+seoMeta:
+  ogImage: auto
 ---
 
 # Découvrir Git <fa-brands-git-alt class="text-orange-600" />
 
 ### YEP'tech - 2023
 
-[Guillaume Quittet](https://v01dsocity.com)
+[Guillaume Quittet](https://gqode.be)
 
 ---
 src: ./pages/00-about-me.md
